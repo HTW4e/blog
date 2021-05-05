@@ -2,5 +2,5 @@
 layout: page
 title: About
 ---
-
-Something about me.
+<script src="https://www.hackthebox.eu/badge/268369"></script>
+<script src="https://tryhackme.com/badge/166457"></script>
